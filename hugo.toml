@@ -41,10 +41,10 @@ paginatePath = "page"
     gradient_angle = 30
     [params.cta.primary_button]
       text = "Get Started Free"
-      url = "/get-started"
+      url = "/kush/get-started"
     [params.cta.secondary_button]
       text = "Book Demo"
-      url = "/demo"
+      url = "/kush/demo"
   
   # Social Media Links
   [params.social]
@@ -94,12 +94,12 @@ paginatePath = "page"
       # Sign In button
       [params.header.buttons.signIn]
         text = "Sign in"
-        url = "/signin"
+        url = "/kush/signin"
       
       # Get Started button
       [params.header.buttons.getStarted]
         text = "Get Started"
-        url = "/get-started"
+        url = "/kush/get-started"
 
   # Blog configuration
   [params.blog]
@@ -177,9 +177,9 @@ paginatePath = "page"
     [menu.main.params]
       has_submenu = true
       submenu = [
-        { name = "Solo", url = "/products/solo/" },
-        { name = "HiriyOo", url = "/products/hiriyoo/" },
-        { name = "Gulit", url = "/products/gulit/" }
+        { name = "Solo", url = "/kush/products/solo/" },
+        { name = "HiriyOo", url = "/kush/products/hiriyoo/" },
+        { name = "Gulit", url = "/kush/products/gulit/" }
       ]
   [[menu.main]]
     name = "Services"
@@ -187,13 +187,13 @@ paginatePath = "page"
     [menu.main.params]
       has_submenu = true
       submenu = [
-        { name = "Consultation", url = "/services/consultation/" },
-        { name = "Development", url = "/services/development/" },
-        { name = "Aerospace", url = "/services/aerospace/" }
+        { name = "Consultation", url = "/kush/services/consultation/" },
+        { name = "Development", url = "/kush/services/development/" },
+        { name = "Aerospace", url = "/kush/services/aerospace/" }
       ]
   [[menu.main]]
     name = "Blog"
-    url = "/blog"
+    url = "/kush/blog"
     weight = 3
   [[menu.main]]
     name = "Company"
@@ -201,44 +201,44 @@ paginatePath = "page"
     [menu.main.params]
       has_submenu = true
       submenu = [
-        { name = "About Us", url = "/company/" },
-        { name = "Careers", url = "/careers/" }
+        { name = "About Us", url = "/kush/company/" },
+        { name = "Careers", url = "/kush/careers/" }
       ]
 
   # Footer Column 1 Menu
   [[menu.footer_column_1]]
     name = "Solo"
-    url = "/products/solo/"
+    url = "/kush/products/solo/"
     weight = 1
   [[menu.footer_column_1]]
     name = "Design System"
-    url = "/products/hiriyoo/"
+    url = "/kush/products/hiriyoo/"
     weight = 2
   [[menu.footer_column_1]]
     name = "Developer Experience"
-    url = "/products/gulit/"
+    url = "/kush/products/gulit/"
     weight = 3
 
   # Footer Column 2 Menu
   [[menu.footer_column_2]]
     name = "Blog"
-    url = "/blog"
+    url = "/kush/blog"
     weight = 1
   [[menu.footer_column_2]]
     name = "About Us"
-    url = "/company"
+    url = "/kush/company"
     weight = 2
   [[menu.footer_column_2]]
     name = "Careers"
-    url = "/careers"
+    url = "/kush/careers"
     weight = 3
 
   # Footer Column 3 Menu
   [[menu.footer_column_3]]
     name = "License"
-    url = "/license"
+    url = "/kush/license"
     weight = 1
   [[menu.footer_column_3]]
     name = "Privacy Policy"
-    url = "/privacy"
+    url = "/kush/privacy"
     weight = 2

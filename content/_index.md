@@ -14,10 +14,10 @@ client_logos:
 ---
 
 {{< hero 
-    headline="Build Your SaaS Website"
-    sub_headline="Create stunning, responsive websites that load instantly. Built with Hugo and TailwindCSS for maximum performance and flexibility."
-    primary_button_text="Get Started Free"
-    primary_button_url="#"
+    headline="Create Meaningful Impact"
+    sub_headline="Modernize Your Business Processes for Maximum Efficiency. Embrace the Joy of Technological Convinience in Your Life."
+    primary_button_text="Contact Us"
+    primary_button_url="/kush/contact-us"
     secondary_button_text="View Demo"
     secondary_button_url="#"
     hero_image="/kush/images/hero-dashboard.svg"
@@ -29,14 +29,14 @@ client_logos:
 {{< client-logos animate="true" >}}
 
 {{< features-section 
-    title="Modern Features for Modern Websites"
-    description="Discover how our theme helps you build fast, beautiful SaaS websites with ease."
+    title="Modernizing IT Teams"
+    description="Let us help your IT teams embrace modern Software and Hardware development processes."
 >}}
 
 {{< feature
-    title="Lightning-Fast Performance"
-    description="Leverage Hugo's blazing-fast build times and optimized output. Your website loads instantly, providing an exceptional user experience."
-    badge="Performance"
+    title="Legacy System Migration"
+    description="Legacy systems are the back-bone of business. But, without proper modernization work in place, they create big liablities with huge meintenance cost. Let us help you give some love to your critical systems."
+    badge="Modenization"
     badgeColor="#2563eb"
     image="/kush/images/feature-1.svg"
     buttonText="Learn More"
@@ -46,8 +46,8 @@ client_logos:
 >}}
 
 {{< feature
-    title="Beautiful Design System"
-    description="Create stunning user interfaces with our comprehensive design system built on TailwindCSS. Customize everything to match your brand."
+    title="SW Development Practices and Processes"
+    description="Starting form problem identification, to solution development al the way through great operational excellence, your teams need to have best practices and optimized processes"
     badge="Design"
     badgeColor="#7c3aed"
     image="/kush/images/feature-2.svg"
