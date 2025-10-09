@@ -33,7 +33,6 @@ go.work.sum
 
 # Dependencies
 node_modules/
-package-lock.json
 yarn.lock
 
 # Hugo
