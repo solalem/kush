@@ -1,4 +1,4 @@
-baseURL = "https://solalem.github.io/kush/"
+baseURL = "https://solalem.github.io/kush"
 languageCode = "en-us"
 title = ""
 
@@ -27,7 +27,7 @@ paginatePath = "page"
 [params]
   description = ""
   author = "Chaoming Li"
-  logo = "/images/logo.svg"
+  logo = "/kush/images/logo.svg"
   # Google Analytics ID (e.g., "G-XXXXXXXXXX")
   # googleAnalytics = "G-XXXXXXXXXX"
   
@@ -69,7 +69,7 @@ paginatePath = "page"
     
     # Logo configuration
     [params.header.logo]
-      src = "/images/logo.svg"
+      src = "/kush/images/logo.svg"
       class = "h-20"
     
     # Menu configuration

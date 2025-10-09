@@ -24,19 +24,19 @@ description: "Learn about our mission, leadership team, and the investors backin
             {{< team-member 
                 name="Sarah Johnson"
                 title="Chief Executive Officer"
-                image="/images/company/exec-1.svg"
+                image="/kush/images/company/exec-1.svg"
                 linkedin="#"
             >}}
             {{< team-member 
                 name="Michael Chen"
                 title="Chief Technology Officer"
-                image="/images/company/exec-2.svg"
+                image="/kush/images/company/exec-2.svg"
                 linkedin="#"
             >}}
             {{< team-member 
                 name="Emily Rodriguez"
                 title="Chief Product Officer"
-                image="/images/company/exec-3.svg"
+                image="/kush/images/company/exec-3.svg"
                 linkedin="#"
             >}}
         </div>
@@ -47,10 +47,10 @@ description: "Learn about our mission, leadership team, and the investors backin
     <div class="max-w-6xl mx-auto">
         <h2 class="text-3xl font-bold text-center mb-12">Backed by World-Class Investors</h2>
         <div class="grid grid-cols-2 md:grid-cols-4 gap-8 items-center">
-            {{< investor-logo name="Sequoia Capital" image="/images/company/investor-1.svg" >}}
-            {{< investor-logo name="Andreessen Horowitz" image="/images/company/investor-2.svg" >}}
-            {{< investor-logo name="Accel" image="/images/company/investor-3.svg" >}}
-            {{< investor-logo name="Benchmark" image="/images/company/investor-4.svg" >}}
+            {{< investor-logo name="Sequoia Capital" image="/kush/images/company/investor-1.svg" >}}
+            {{< investor-logo name="Andreessen Horowitz" image="/kush/images/company/investor-2.svg" >}}
+            {{< investor-logo name="Accel" image="/kush/images/company/investor-3.svg" >}}
+            {{< investor-logo name="Benchmark" image="/kush/images/company/investor-4.svg" >}}
         </div>
     </div>
 {{< /section-container >}}
