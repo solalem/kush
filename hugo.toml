@@ -34,8 +34,8 @@ paginatePath = "page"
   # Global CTA Configuration
   [params.cta]
     enable = true
-    title = "Ready to Build Your SaaS Website?"
-    description = "Join companies already using our theme to create beautiful, high-performance websites."
+    title = "Ready to Create Your First Solo Project?"
+    description = "Join companies and developers using Solo for code-gen, documention and other tasks."
     gradient_from = "#2563eb"  # Indigo-600
     gradient_to = "#7c3aed"    # Purple-600
     gradient_angle = 30
@@ -90,16 +90,7 @@ paginatePath = "page"
         text_size = "text-sm"
     
     # Button configuration
-    [params.header.buttons]
-      # Sign In button
-      [params.header.buttons.signIn]
-        text = "Sign in"
-        url = "/kush/signin"
-      
-      # Get Started button
-      [params.header.buttons.getStarted]
-        text = "Get Started"
-        url = "/kush/get-started"
+
 
   # Blog configuration
   [params.blog]

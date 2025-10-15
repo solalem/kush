@@ -3,29 +3,29 @@ title: "Solo"
 description: "Embrace Model Driven Development. Supercharge your Software development process with domain-modelling and templating tools in a single platform."
 layout: "feature"
 badge: "Product"
-badgeColor: "#2563eb"
+badgeColor: "#25eb43ff"
 features:
-  - title: "Sub-second Page Loads"
-    description: "Experience instant page transitions with Hugo's static site generation. Pages load in milliseconds, ensuring visitors stay engaged."
-  - title: "Optimized Assets"
-    description: "Automatically optimize images, CSS, and JavaScript. Reduce file sizes without compromising quality for faster load times."
-  - title: "Minimal JavaScript"
-    description: "Built with minimal JavaScript dependencies. Pages remain fast and functional while keeping the bundle size small."
-  - title: "CDN-Ready Output"
-    description: "Deploy your site to any CDN for global distribution. Static files are optimized for edge caching and maximum performance."
+  - title: "Easily Model Your Domain"
+    description: "Domain Modeling has never been easier. Use raw JSON files or build using our powerful model editor. You are not limited to handlful of model and property attributes. You can add your own and use them in templates."
+  - title: "Generate Code and Files"
+    description: "Select from large collection of templates to bring your Domain Models to life. Swap templates from different categories and compare results to see which one matches your need. Previews enable you see results in realtime."
+  - title: "Manage Templates"
+    description: "Select from our ready made templates across multiple domains. They are organized under different file types, frameworks, businesses, computer languages and other categories. You can author your own and share them to your team too."
+  - title: "Collaborate with Teammates"
+    description: "Invite your colleagues in, manage their access and collaborate on in your domain modeling sessions. Changes are tracked and can be audited with ease."
 demo:
-  description: "See how our optimized build process delivers lightning-fast page loads and smooth transitions."
+  description: "See the demo to evaluate templates to create a working example based on your models."
   image: "/kush/images/feature-1.svg"
 testimonials:
-  - name: "John Smith"
+  - name: "Ew"
     title: "CTO at TechStartup"
     avatar: "/kush/images/testimonial-1.svg"
     quote: "We built our SaaS website in record time. The performance is incredible, and our users love the modern, clean design."
-  - name: "Sarah Johnson"
+  - name: "Mil"
     title: "Founder at WebFlow"
     avatar: "/kush/images/testimonial-1.svg"
     quote: "The combination of Hugo and TailwindCSS delivers lightning-fast performance. Our website loads instantly, which has significantly improved our conversion rates."
-  - name: "Michael Chen"
+  - name: "Yal"
     title: "Lead Developer at CloudTech"
     avatar: "/kush/images/testimonial-1.svg"
     quote: "This theme made it easy to create a professional SaaS website. The build times are incredibly fast, and the code is clean and maintainable."
@@ -33,14 +33,38 @@ testimonials:
 
 
 {{< features-section 
-    title="Modern Features for Modern Websites"
-    description="Discover how our theme helps you build fast, beautiful SaaS websites with ease."
+    title="Simple Yet Powerful Modeling and Code-Gen Tool"
+    description="Discover how you can cut your software project bootstraping costs and embrace DDD strategic design philosophy with our tools."
 >}}
 
 {{< feature
-    title="Lightning-Fast Performance"
+    title="Growing Registry of Templates"
+    description="Create stunning user interfaces with our comprehensive design system built on TailwindCSS. Customize everything to match your brand."
+    badge="Design"
+    badgeColor="#7c3aed"
+    image="/kush/images/feature-2.svg"
+    buttonText="Learn More2"
+    buttonLink="/products/hiriyoo/"
+    features="Modern UI components,Responsive design,Custom typography,Flexible layouts"
+    imagePosition="left"
+>}}
+
+{{< feature
+    title="VS Code Extension"
+    description="Use our VS Code extension to avoid context switching while managing change previews and generating code. You can also track changes to models and templates in your git repository."
+    badge="Development"
+    badgeColor="#16a34a"
+    image="/kush/images/feature-3.svg"
+    buttonText="Learn More"
+    buttonLink="/products/gulit/"
+    features="Component system,Easy customization,Clean code,Detailed documentation"
+    imagePosition="right"
+>}}
+
+{{< feature
+    title="Collaborative Environment"
     description="Leverage Hugo's blazing-fast build times and optimized output. Your website loads instantly, providing an exceptional user experience."
-    badge="Performance"
+    badge="Collaboration"
     badgeColor="#2563eb"
     image="/kush/images/feature-1.svg"
     buttonText="Learn More"
@@ -50,9 +74,21 @@ testimonials:
 >}}
 
 {{< feature
-    title="Beautiful Design System"
+    title="Integration to Existing Workflows"
+    description="Our CLI tool can be integrated in existing CI/CD pipelines to generate artifacts like codes and documentations."
+    badge="CLI"
+    badgeColor="#2563eb"
+    image="/kush/images/feature-1.svg"
+    buttonText="Learn More"
+    buttonLink="/products/solo/"
+    features="Sub-second page loads,Optimized assets,Minimal JavaScript,CDN-ready output"
+    imagePosition="right"
+>}}
+
+{{< feature
+    title="Growing Registry of Templates"
     description="Create stunning user interfaces with our comprehensive design system built on TailwindCSS. Customize everything to match your brand."
-    badge="Design"
+    badge="Templates"
     badgeColor="#7c3aed"
     image="/kush/images/feature-2.svg"
     buttonText="Learn More"
@@ -62,8 +98,8 @@ testimonials:
 >}}
 
 {{< feature
-    title="Developer Experience"
-    description="Enjoy a seamless development experience with hot reload, component-based architecture, and clean, maintainable code."
+    title="VS Code Extension"
+    description="Use our VS Code extension to avoid context switching while managing change previews and generating code. You can also track changes to models and templates in your git repository."
     badge="Development"
     badgeColor="#16a34a"
     image="/kush/images/feature-3.svg"
@@ -76,9 +112,9 @@ testimonials:
 {{< /features-section >}}
 
 {{< testimonials 
-    title="Trusted by Modern Web Teams"
-    description="See how teams are building better websites with our theme."
-    animate="true"
+    title="Trusted by Multiple Teams"
+    description="See how teams are building better with Solo"
+    animate="false"
     background-color="#f1f5f9"
 >}}
 
