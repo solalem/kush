@@ -193,7 +193,7 @@ paginatePath = "page"
       ]
   [[menu.main]]
     name = "Blog"
-    url = "/kush/blog"
+    url = "/blog"
     weight = 3
   [[menu.main]]
     name = "Company"

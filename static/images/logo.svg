@@ -11,20 +11,22 @@
     <path d="M 50 50 l 0 150" fill="none" stroke="#22cc22" stroke-width="8"/>
     <path d="M 125 193.3 A 50 50 0 1 1 100 100" fill="none" stroke="#22cc22" stroke-width="8"/>
 
+    <!-- s -->
+    <path d="M 206.15 106.7 A 50 50 0 1 1 275 32.7" fill="none" stroke="#ff5555" stroke-width="8"/>  
+
     <!-- u -->
     <path d="M 200 106.7 A 50 50 0 1 1 150 106.7" fill="none" stroke="#cccc22" stroke-width="8"/>
-    <path d="M 150 177 A 50 50 0 0 1 200 177" fill="none" stroke="#22cc22" stroke-width="8"/>
+    <!-- <path d="M 150 177 A 50 50 0 0 1 200 177" fill="none" stroke="#22cc22" stroke-width="8"/> -->
 
     <!-- h -->
     <!-- <path d="M 325 75 A 50 50 0 0 0 275 125 l 0 77" fill="none" stroke="#2222ff" stroke-width="8"/> -->
     <path d="M 275 50 l 0 100" fill="none" stroke="#555555" stroke-width="8"/>
 
     <!-- s -->
-    <path d="M 225 118.3 A 50 50 0 1 1 275 32.7" fill="none" stroke="#ff5555" stroke-width="8"/>  
-    <path d="M 250 100 A 50 50 0 1 1 225 193.3" fill="none" stroke="#ff5555" stroke-width="8"/>
+    <path d="M 225 106.7 A 50 50 0 1 1 225 193.3" fill="none" stroke="#ff5555" stroke-width="8"/>
 
     <!-- h -->
-    <path d="M 275 150 A 50 50 0 1 1 325 200" fill="none" stroke="#666666" stroke-width="8"/>
+    <path d="M 282 175 A 50 50 0 1 1 375 150 l 0 50" fill="none" stroke="#666666" stroke-width="8"/>
   </g>
 <!-- 
  <g>
