@@ -24,8 +24,6 @@ client_logos:
     gradient-angle="180"
 >}}
 
-{{< client-logos animate="false" >}}
-
 {{< features-section 
     title="Modernizing Your IT Teams"
     description="Let us help your IT teams embrace modern Software and Hardware development processes."
@@ -33,7 +31,7 @@ client_logos:
 
 {{< feature
     title="SW Development Practices and Processes"
-    description="Starting form problem identification, to solution development al the way through great operational excellence, your teams need to have best practices and optimized processes"
+    description="From problem identification, to solution development all the way through great operational excellence, your teams need to have best practices and optimized processes"
     badge="Design"
     badgeColor="#7c3aed"
     image="/kush/images/feature-2.svg"
@@ -45,7 +43,7 @@ client_logos:
 
 {{< feature
     title="Legacy System Migration"
-    description="Legacy systems are the back-bone of your business. But, without proper modernization process in place, they create big liablities require huge maintenance cost. Let us help you give some love to your business critical systems."
+    description="We understand your legacy SW systems are the back-bone of your business. But, they create big liablities require huge maintenance cost if you dont have proper modernization process in place. Let us help you give some love to these business critical systems of yours."
     badge="Modenization"
     badgeColor="#2563eb"
     image="/kush/images/feature-1.svg"
@@ -57,7 +55,7 @@ client_logos:
 
 {{< feature
     title="System Architecture and Design"
-    description="Most business critical system can benefit from system level design work to support security, reliablity and scalablity needs. We have experience in architecting and designing systems at scale. Let us know your needs. We have few tried and tested solutions for you development and operations teams."
+    description="Software and hardware systems can benefit from high level design work to support security, reliablity and scalablity needs. We have experience in architecting and designing systems at scale. Let us know your needs. We have few tried and tested solutions for your development and operational needs."
     badge="Development"
     badgeColor="#16a34a"
     image="/kush/images/feature-3.svg"
@@ -82,13 +80,15 @@ client_logos:
             {{< value-card 
                 title="Aerospace Command and Control"
                 icon="plane"
-                description="Specializing in UAVs/drone control software technologies, we have experience in developing and integrating with proprietary and open source tools."
+                description="Specializing in UAVs/drone control software technologies, we helped create innovative and local solutions related to developing and integrating with proprietary and open source tools."
             >}}
             {{< value-card 
                 title="GNC Research"
                 icon="computer"
-                description="We have experience in GNC system development for small UAVs. We can help in research, development and consultation."
+                description="We have experience in GNC system development for small UAVs. We can help in research and development."
             >}}
         </div>
     </div>
 {{< /section-container >}}
+
+{{< client-logos animate="false" >}}

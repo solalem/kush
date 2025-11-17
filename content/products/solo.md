@@ -12,7 +12,7 @@ features:
   - title: "Manage Templates"
     description: "Select from our ready made templates across multiple domains. They are organized under different file types, frameworks, businesses, computer languages and other categories. You can author your own and share them to your team too."
   - title: "Collaborate with Teammates"
-    description: "Invite your colleagues in, manage their access and collaborate on in your domain modeling sessions. Changes are tracked and can be audited with ease."
+    description: "Invite your colleagues in, manage their access and collaborate in your domain modeling sessions. Changes are tracked and can be audited with ease."
 demo:
   description: "See the demo to evaluate templates to create a working example based on your models."
   image: "/kush/images/feature-1.svg"
@@ -39,13 +39,13 @@ testimonials:
 
 {{< feature
     title="Growing Registry of Templates"
-    description="Create stunning user interfaces with our comprehensive design system built on TailwindCSS. Customize everything to match your brand."
+    description="Select from our ready made templates across multiple domains. They are organized under different file types, frameworks, businesses, computer languages and other categories. You can author your own and share them to your team too."
     badge="Design"
     badgeColor="#7c3aed"
     image="/kush/images/feature-2.svg"
     buttonText="Learn More2"
     buttonLink="/products/hiriyoo/"
-    features="Modern UI components,Responsive design,Custom typography,Flexible layouts"
+    features="Public Templates,Private Templates,Customizations,Preview Generated Code"
     imagePosition="left"
 >}}
 
@@ -57,103 +57,45 @@ testimonials:
     image="/kush/images/feature-3.svg"
     buttonText="Learn More"
     buttonLink="/products/gulit/"
-    features="Component system,Easy customization,Clean code,Detailed documentation"
+    features="JSON Schema,Preview Files,Domain Modeling,Registry Integration"
     imagePosition="right"
 >}}
 
 {{< feature
-    title="Collaborative Environment"
-    description="Leverage Hugo's blazing-fast build times and optimized output. Your website loads instantly, providing an exceptional user experience."
+    title="Generate Code and Files"
+    description="Select from large collection of templates to bring your Domain Models to life. Swap templates from different categories and compare results to see which one matches your need. Previews enable you see results in realtime."
     badge="Collaboration"
     badgeColor="#2563eb"
     image="/kush/images/feature-1.svg"
     buttonText="Learn More"
     buttonLink="/products/solo/"
-    features="Sub-second page loads,Optimized assets,Minimal JavaScript,CDN-ready output"
+    features="Instant Previews,Multiple File Generate,Multiple File Types"
     imagePosition="right"
 >}}
 
 {{< feature
-    title="Integration to Existing Workflows"
-    description="Our CLI tool can be integrated in existing CI/CD pipelines to generate artifacts like codes and documentations."
+    title="Support Your Workflows"
+    description="Solo CLI can be integrated in existing CI/CD pipelines to generate artifacts like codes and documentations."
     badge="CLI"
     badgeColor="#2563eb"
     image="/kush/images/feature-1.svg"
     buttonText="Learn More"
     buttonLink="/products/solo/"
-    features="Sub-second page loads,Optimized assets,Minimal JavaScript,CDN-ready output"
-    imagePosition="right"
->}}
-
-{{< feature
-    title="Growing Registry of Templates"
-    description="Create stunning user interfaces with our comprehensive design system built on TailwindCSS. Customize everything to match your brand."
-    badge="Templates"
-    badgeColor="#7c3aed"
-    image="/kush/images/feature-2.svg"
-    buttonText="Learn More"
-    buttonLink="/products/hiriyoo/"
-    features="Modern UI components,Responsive design,Custom typography,Flexible layouts"
-    imagePosition="left"
->}}
-
-{{< feature
-    title="VS Code Extension"
-    description="Use our VS Code extension to avoid context switching while managing change previews and generating code. You can also track changes to models and templates in your git repository."
-    badge="Development"
-    badgeColor="#16a34a"
-    image="/kush/images/feature-3.svg"
-    buttonText="Learn More"
-    buttonLink="/products/gulit/"
-    features="Component system,Easy customization,Clean code,Detailed documentation"
+    features="CLI,Cross Platform,Solution Management,Template Management"
     imagePosition="right"
 >}}
 
 {{< /features-section >}}
 
 {{< testimonials 
-    title="Trusted by Multiple Teams"
+    title="Trusted by Many"
     description="See how teams are building better with Solo"
     animate="false"
     background-color="#f1f5f9"
 >}}
 
-{{< cta >}}
 
-
-## Built for Speed
-
-Our theme is engineered from the ground up with performance in mind. By leveraging Hugo's powerful static site generation and combining it with modern optimization techniques, we deliver websites that load instantly and run smoothly.
-
-### Performance Metrics
-
-- **Build Time**: Less than 1 second for most sites
-- **Page Load Time**: Under 500ms first contentful paint
-- **Time to Interactive**: Under 1.5 seconds
-- **Google Lighthouse Score**: 95+ on all metrics
-
-### Optimization Features
-
-#### Asset Optimization
-- Automatic image optimization and WebP conversion
-- CSS minification and purging of unused styles
-- JavaScript bundling and tree-shaking
-- Lazy loading of images and components
-
-#### Caching Strategy
-- Efficient browser caching with proper headers
-- Static asset fingerprinting
-- Pre-rendered HTML for instant loads
-- Service worker for offline capabilities
-
-#### CDN Integration
-- Built for global distribution
-- Edge caching ready
-- Automatic cache invalidation
-- Geographic redundancy
-
-Our performance-first approach ensures your website not only looks great but delivers an exceptional user experience through blazing-fast load times and smooth interactions.
-
+Looks for our pricing options. Start with our community edition and get into the world of domain modelling and code-gen. We are ready to support you if you need provate instances.
 
 {{< pricing-table-2 >}}
 {
@@ -161,8 +103,8 @@ Our performance-first approach ensures your website not only looks great but del
     "description": "Choose a plan that best suits your business needs with our flexible pricing options.",
     "plans": [
         {
-            "name": "Basic",
-            "price": "19",
+            "name": "Community",
+            "price": "0",
             "description": "Perfect for freelancers and solo developers.",
             "features": [
                 "Core features included",
